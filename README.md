@@ -63,6 +63,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+    git remote set-url origin https://kylosovadarya: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@github.com/kylosovadarya/kylosovadarya.github.io
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
