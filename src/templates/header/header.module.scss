@@ -1,0 +1,33 @@
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 45px;
+}
+
+.header h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.btns > * {
+    margin-left: 38px;
+    position: relative;
+}
+
+.headerIcon {
+    font-size: 30px;
+}
+
+.header form {
+    position: relative;
+}
+
+.searchBtn {
+    position: relative;
+    left: -30px;
+}
+
+.searchInput {
+    width: 320px;
+}

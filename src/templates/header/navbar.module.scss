@@ -1,0 +1,29 @@
+.navbar {
+    border-bottom: 1px solid rgba(21, 21, 21, 0.05);
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 45px;
+    height: 48px;
+    display: flex;
+}
+
+.navbar > * {
+    display: flex;
+}
+
+.contacts {
+    gap: 33px;
+}
+
+nav {
+    gap: 38px;
+}
+
+nav > * {
+    text-decoration: none;
+    color: #6a983c;
+}
+
+.contacts span:first-child {
+    color: #6a983c;
+}
